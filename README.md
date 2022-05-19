@@ -12,3 +12,4 @@
 - [🔥 항해 7일차 - 첫번째 주말](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%207%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 8일차](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%208%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 9일차 - motivation](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%209%EC%9D%BC%EC%B0%A8.txt)
+- [🔥 항해 10일차](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2010%EC%9D%BC%EC%B0%A8.txt)
