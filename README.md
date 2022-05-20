@@ -13,4 +13,5 @@
 - [🔥 항해 8일차](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%208%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 9일차 - motivation](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%209%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 10일차](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2010%EC%9D%BC%EC%B0%A8.txt)
-- [🔥 항해 10일차 - 챕터2 알고리즘 주차 종료](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2011%EC%9D%BC%EC%B0%A8.txt)
+- [🔥 항해 11일차 - 챕터2 알고리즘 주차 종료](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2011%EC%9D%BC%EC%B0%A8.txt)
+- [🔥 항해 12일차](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2012%EC%9D%BC%EC%B0%A8.txt)
