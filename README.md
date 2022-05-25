@@ -16,4 +16,4 @@
 - [🔥 항해 11일차 - 챕터2 알고리즘 주차 종료](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2011%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 12일차 - 주특기주차 시작(Node.js)](https://github.com/Usiniverse/TIL_WIL/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2012%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 13일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2013%EC%9D%BC%EC%B0%A8.txt)
-- [🔥 항해 14일차 - 두](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2014%EC%9D%BC%EC%B0%A8.txt)
+- [🔥 항해 14일차 - 두번째 주말](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2014%EC%9D%BC%EC%B0%A8.txt)
