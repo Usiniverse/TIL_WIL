@@ -22,4 +22,4 @@
 - [🔥 항해 17일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2017%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 18일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/tree/main/Dailynote)
 - [🔥 항해 19일차 - 주특기 숙련 ](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2019%EC%9D%BC%EC%B0%A8.txt)
-- [🔥 항해 20일차]
+- [🔥 항해 20일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2020%EC%9D%BC%EC%B0%A8.txt)
