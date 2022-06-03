@@ -27,3 +27,4 @@
 - [🔥 항해 22일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2022%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 23일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2023%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 24일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2024%EC%9D%BC%EC%B0%A8.txt)
+- [🔥 항해 25일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2025%EC%9D%BC%EC%B0%A8.txt)
