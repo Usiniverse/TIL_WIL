@@ -29,3 +29,7 @@
 - [🔥 항해 24일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2024%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 25일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2025%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 26일차 - 주특기 심화](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2026%EC%9D%BC%EC%B0%A8.txt)
+- [🔥 항해 27일차]
+- [🔥 항해 28일차]
+- [🔥 항해 29일차]
+- [🔥 항해 30일차]
