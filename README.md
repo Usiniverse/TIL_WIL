@@ -32,6 +32,6 @@
 - [🔥 항해 27일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2027%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 28일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2028%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 29일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2029%EC%9D%BC%EC%B0%A8.txt)
-- [🔥 항해 30일차]
+- [🔥 항해 30일차](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2030%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 31일차]
 - [🔥 항해 32일차]
