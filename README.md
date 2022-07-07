@@ -27,3 +27,4 @@
 - [🔥 항해 35일차 - 다섯번째 주말 ](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2035%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 37일차 - 토큰에러 / 협업 ](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2037%EC%9D%BC%EC%B0%A8.txt)
 - [🔥 항해 51일차 - 실전프로젝트](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2051%EC%9D%BC%EC%B0%A8.txt)
+- [🔥 항해 60일차 - 실전프로젝트 순항 중 ](https://github.com/Usiniverse/TIL_WIL_DailyNote/blob/main/Dailynote/%ED%95%AD%ED%95%B4%2060%EC%9D%BC%EC%B0%A8.txt)
